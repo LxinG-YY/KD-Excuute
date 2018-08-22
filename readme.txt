@@ -1,7 +1,3 @@
-Git is a distributed version control system.
+This is my usual operation python file group.
 
-Git is free software distributed under the GPL.
-
-And I want to try again.
-
-Git has mutable index called stage.
+Which is very useful in my daily work
